@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Configurá SITE_URL y regenerá sitemap.xml al publicar el dominio definitivo.
